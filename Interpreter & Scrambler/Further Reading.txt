@@ -1,0 +1,48 @@
+=========================================
+== Project part 1 and Project part 2   ==
+==    are part of the same thing!      ==
+=========================================
+
+Project 1 is the Truing Interpreter
+Project 2 is a Scrambler that uses the Truing Interpreter
+	(showcases the dart:html library)
+
+==========================
+== Running the Projects ==
+==========================
+
+-There are two ways you can run the code for Leap1
+
+-using the dartpad (recommended since it's what I used to
+ develop the project)
+
+-or install the dart SDK and use an IDE of your choice
+ (not recommended since there could be potential 
+ problems with that).
+ This option is available in case if you wanted to see
+ HOW I would divide the code up instead of use one gigantic
+ file.
+
+========================
+== RUNNING IN DARTPAD ==
+========================
+-go to : https://dartpad.dartlang.org/
+
+-Copy and paste the MonoCode.dart file into the Dart tab
+-Copy and paste the HTML.html into the HTML tab
+-Copy and paste the CSS.css into the CSS tab
+
+-(yes so much copy pasta)
+
+========================
+==   USING DART SDK   ==
+========================
+-Download Dart : https://www.dartlang.org/downloads/
+ Use any other tools if necessary : https://www.dartlang.org/tools/
+
+-place the (OPL) Leap1 Main, Interpreter, Tests, and Scrambler
+ dart files into an appropriate directory for your IDE
+ 
+Do the same with the HTML and CSS files
+
+Run (or at least try to :P)
